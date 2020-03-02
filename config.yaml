@@ -1,4 +1,3 @@
 signalfx:
-  access_token: xxxx
   session_token: xxxx
   realm: us1
